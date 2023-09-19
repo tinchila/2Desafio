@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Producto de ejemplo",
+    "description": "Descripción del producto de ejemplo",
+    "price": 19.99,
+    "thumbnail": "ruta/a/la/imagen.jpg",
+    "code": "PROD123",
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "title": "Nombre del Producto ${product.id}",
+    "description": "Descripción del Producto ${product.id}",
+    "price": "Precio del Producto ${product.id}",
+    "thumbnail": "Ruta de Imagen del Producto ${product.id}",
+    "code": "Codigo del Producto ${product.id}",
+    "stock": "Stock del Producto ${product.id}",
+    "id": 3
+  },
+  {
+    "title": "Nombre del Producto ${product.id}",
+    "description": "Descripción del Producto ${product.id}",
+    "price": "Precio del Producto ${product.id}",
+    "thumbnail": "Ruta de Imagen del Producto ${product.id}",
+    "code": "Codigo del Producto ${product.id}",
+    "stock": "Stock del Producto ${product.id}",
+    "id": 4
+  },
+  {
+    "title": "Nombre del Producto",
+    "description": "Descripción del Producto",
+    "price": "Precio del Producto",
+    "thumbnail": "Ruta de Imagen del Producto",
+    "code": "Codigo del Producto",
+    "stock": "Stock del Producto",
+    "id": 5
+  }
+]
